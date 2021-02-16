@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Assignment2Test",
+      "setup": "",
+      "run": "mvn -q -B test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    }
+  ]
+}
